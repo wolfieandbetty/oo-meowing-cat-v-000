@@ -1,3 +1,3 @@
 ## code your solution here.
-class = Cat
+class Cat
 end
